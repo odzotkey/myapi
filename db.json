@@ -1,5 +1,5 @@
 {
-  "persons":[
+  "persons":
       [{"id":1,"first_name":"Zara","last_name":"Thirkettle"},
 {"id":2,"first_name":"Yetty","last_name":"Sighart"},
 {"id":3,"first_name":"Nellie","last_name":"Cadle"},
@@ -50,5 +50,5 @@
 {"id":48,"first_name":"Weston","last_name":"Thackray"},
 {"id":49,"first_name":"Abrahan","last_name":"Borge"},
 {"id":50,"first_name":"Gunar","last_name":"Lasty"}]
-  ]
+  
 }
